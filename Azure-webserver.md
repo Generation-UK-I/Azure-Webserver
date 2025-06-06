@@ -59,9 +59,10 @@ Review the avilable options, and configure the following:
 
 12. Click `Next: Tags`
 
-        Tags are key value pairs that are used to attach meta-data to your resources in the form of key-value pairs. They can be used to assist in resource management, cost management, monitoring, running reports, and many other tasks. 
+            Tags are key value pairs that are used to attach meta-data to your resources in the form of key-value pairs.
+            They can be used to assist in resource management, cost management, monitoring, running reports, and many other tasks. 
 
-13. Click `Next: Review + create`
+14. Click `Next: Review + create`
 
 Confirm your selected configuration options, then click 'create'.
 
