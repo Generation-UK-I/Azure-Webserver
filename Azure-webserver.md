@@ -80,3 +80,7 @@ Confirm your selected configuration options, then click 'create'.
 
 20. Once you have finished don't forget to delete your web server and associated resources (including Resource Groups).
 
+## Stretch and Challenge
+
+Can you Deploy WordPress?
+
